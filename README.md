@@ -1,0 +1,102 @@
+[Uploading alaya_<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alaya - Tu Concierge Personal en LATAM</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #111;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: gold;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    .cta {
+      background-color: gold;
+      color: black;
+      padding: 10px 30px;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .formulario input, .formulario select {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+    }
+    .formulario button {
+      background-color: gold;
+      color: black;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ALAYA</h1>
+    <p>Tu concierge personal en LATAM</p>
+    <p>Viaja con lujo, seguridad y experiencias únicas</p>
+    <button class="cta">Únete a la lista de espera</button>
+  </header>
+
+  <section>
+    <h2>¿Qué es Alaya?</h2>
+    <p>Una app que une lo mejor de Booking, Uber y un concierge de hotel 5 estrellas, con inteligencia artificial y geolocalización. Seguridad, rutas exclusivas, experiencias, hospedajes de lujo y hasta jets privados.</p>
+  </section>
+
+  <section>
+    <h2>¿Por qué ahora?</h2>
+    <ul>
+      <li>+30M turistas al año en LATAM</li>
+      <li>+10% crecimiento anual en turismo de lujo</li>
+      <li>No hay competencia directa en la región</li>
+      <li>Creado por y para LATAM, con tecnología global</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>¿Eres hotel o agencia?</h2>
+    <p>Únete como partner y recibe más clientes sin riesgo. Ofrecemos visibilidad, sistema de reservas, IA, pagos seguros y guía para el turista.</p>
+    <button class="cta">Quiero ser partner</button>
+  </section>
+
+  <section class="formulario">
+    <h2>Contáctanos</h2>
+    <form action="#" method="POST">
+      <input type="text" name="nombre" placeholder="Nombre completo" required>
+      <input type="email" name="correo" placeholder="Correo electrónico" required>
+      <select name="tipo">
+        <option value="viajero">Soy viajero</option>
+        <option value="empresa">Soy empresa</option>
+      </select>
+      <input type="text" name="pais" placeholder="País de residencia">
+      <button type="submit">Enviar</button>
+    </form>
+  </section>
+</body>
+</html>
+landing_page(1).html…]()
